@@ -1,4 +1,3 @@
-
 ## Summary
 Water Reminder App that helps people in Bahrain's hot weather to remember to drink water.
 My Project: Water Reminder App
